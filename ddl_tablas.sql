@@ -1,0 +1,3 @@
+--creacion de tablas sql
+--autor: waq
+--Fecha: 26/10/2019
