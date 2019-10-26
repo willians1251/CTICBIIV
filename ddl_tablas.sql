@@ -6,3 +6,5 @@ create table TD_Cliente(
 name varchar2(50),
 apellido varchar2(50),
 )
+
+ALTER TABLE TD_Cliente;
